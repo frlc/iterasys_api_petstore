@@ -1,0 +1,18 @@
+{
+  "id": 3112198065,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "zulu labrador",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210812,
+      "name": "token"
+    }
+  ],
+  "status": "sold"
+}
